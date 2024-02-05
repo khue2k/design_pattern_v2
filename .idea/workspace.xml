@@ -1,11 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="6cc00754-601a-4006-8a84-271f3cb0ccf7" name="Changes" comment="" />
+    <list default="true" id="6cc00754-601a-4006-8a84-271f3cb0ccf7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/example/src/main/java/org/example/abstractPattern/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/src/main/java/org/example/abstractPattern/Checkbox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/src/main/java/org/example/abstractPattern/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/src/main/java/org/example/abstractPattern/GUIFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/src/main/java/org/example/abstractPattern/MacOsButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/src/main/java/org/example/abstractPattern/MacOsCheckbox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/src/main/java/org/example/abstractPattern/MacOsFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/src/main/java/org/example/abstractPattern/WindowFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/src/main/java/org/example/abstractPattern/WindowsButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/src/main/java/org/example/abstractPattern/WindowsCheckBox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/c/9c600e8ab2fa1be44bc6f8026ecde0ac7e5d8d25" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/c/9c600e8ab2fa1be44bc6f8026ecde0ac7e5d8d25" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/src/main/java/org/example/abstractPattern/Button.java" beforeDir="false" afterPath="$PROJECT_DIR$/example/src/main/java/org/example/abstractPattern/Button.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/target/classes/org/example/Main.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
   </component>
   <component name="ProjectId" id="2bwSsC6bEwD0FhqdOVKff6Xt3Xd" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -17,11 +56,44 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "19",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Demo">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.abstractPattern.Application" />
+      <module name="example" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.abstractPattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.abstractPattern.Demo" />
+      <module name="example" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.abstractPattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Main" />
       <module name="example" />
@@ -37,6 +109,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.Application" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -49,7 +123,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1707124854114</updated>
+      <workItem from="1707124855421" duration="3980000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>

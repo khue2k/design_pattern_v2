@@ -1,5 +1,5 @@
 package org.example.abstractPattern;
 
-public interface Button {
+public interface Checkbox {
     void paint();
 }
